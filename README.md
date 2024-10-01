@@ -24,7 +24,7 @@ Implementation: Contains the logic to solve the problem.
 
 ## Problem List
 
-Below are the solutions to LeetCode problems solved in September 2024, organized by date:
+Below are the solutions to LeetCode problems solved in October 2024, organized by date:
 
 - **October 1, 2024**
   - [October_1](October_1.cpp)
