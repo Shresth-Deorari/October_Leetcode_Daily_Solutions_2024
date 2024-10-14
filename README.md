@@ -62,6 +62,12 @@ Below are the solutions to LeetCode problems solved in October 2024, organized b
 - **October 12, 2024**
   - [October_12](October_12.cpp)
 
+- **October 13, 2024**
+  - [October_13](October_13.cpp)
+
+- **October 14, 2024**
+  - [October_14](October_14.cpp)
+
 ## Usage
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
