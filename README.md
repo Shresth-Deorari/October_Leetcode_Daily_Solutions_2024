@@ -95,6 +95,9 @@ Below are the solutions to LeetCode problems solved in October 2024, organized b
 - **October 23, 2024**
   - [October_23](October_23.cpp)
 
+- **October 24, 2024**
+  - [October_24](October_24.cpp)
+
 ## Usage
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
