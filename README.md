@@ -106,6 +106,9 @@ Below are the solutions to LeetCode problems solved in October 2024, organized b
 
 - **October 27, 2024**
   - [October_27](October_27.cpp)
+ 
+- **October 28, 2024**
+  - [October_28](October_28.cpp)
 
 ## Usage
 
